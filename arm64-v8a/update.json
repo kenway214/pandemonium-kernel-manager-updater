@@ -1,11 +1,11 @@
 {
-  "versionCode": 1768158357,
+  "versionCode": 1769209418,
   "versionName": "3.2.0",
-  "apkUrl": "https://sourceforge.net/projects/project-peridot/files/PKM/3.2.0/app-arm64-v8a-release-20260112-0035.apk/download",
+  "apkUrl": "https://sourceforge.net/projects/project-peridot/files/PKM/3.2.0/app-arm64-v8a-release-20260124-0433.apk/download",
   "abi": "arm64-v8a",
-  "sizeBytes": 21451688,
-  "sha256": "06133c90d1d0a4f8f6dcedc030a51916165cd8be70f57aa59fccb07af313a75d",
+  "sizeBytes": 21532020,
+  "sha256": "94e8ab2e30cbfafe333d544a43cafc7e3f636f9f926ec1e14f001604eeaaed1b",
   "releaseNotes": "",
-  "buildTime": "2026-01-12 00:35",
-  "datetime": 1768158357
+  "buildTime": "2026-01-24 04:33",
+  "datetime": 1769209418
 }

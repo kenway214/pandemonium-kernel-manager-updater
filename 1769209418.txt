@@ -1,0 +1,21 @@
+Pandemonium Kernel Manager 3.2 (1769209418)
+
+
+- Fixed CPU governor not detecting correctly
+- Fixed GPU model detection issue
+- Fixed Battery capacity not detecting properly for some models
+- Added Game Overlay customization screen + toggle.
+- Implemented on‑screen overlay layout updates .
+- Fixed stacked overlay spacing.
+- Improved FPS watcher stability.
+- Improved Recovery ZIP flasher.
+- Fixed and Improved Monster Mode
+- Recovery ZIP flasher now shows live flashing logs during runtime.
+- Fixed vendor_dlkm partition detection for hyperos rom in kernel flasher.
+- Fixed invalid ramdisk detection in kernel flasher.
+- Fixed split‑APK handling during flashing.
+- Fixed Data Backup UI when selecting “all” data types (readability).
+- Improved Data Backup and Restore tool
+- Fixed scrolling in updater page.
+- Minor UI improvements
+

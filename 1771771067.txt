@@ -1,0 +1,28 @@
+Pandemonium Kernel Manager 3.3.0 (1771771067)
+
+- Added New FPS record section with graphs
+- Added New FPS monitoring method selector
+- Fix visuals in Game control card where Reclaim FPS button not showing
+- Fix bugs in Monster mode control
+- Added New Battery section
+- Adeed App battery usage stats tracking
+- Added Electrical current monitoring
+- Added Battery health monitoring
+- Added Manual Reset stats option for Battery section
+- Added New Dex optimisation (tool)
+- Added New Process Manager with kill switch and freeze switch (tool)
+- Added App freezer With schedule support (tool)
+- Added Xiaomi Thermal editor with backup and restore functionality (tool)
+- Added Powerhint editor with backup and restore functionality (tool)
+- Added New Buildprop editor screen (tool)
+- Fixed Bugs in kernel flasher (tool)
+- Added New  kprofile support (ko mode 4 /performance plus)
+- Fixed Per app Mi Thermal profile not applying properly
+- Rework UI in PKM Settings page
+- Create a Bug report section in PKM Settings
+- Rework UI in PKM app update centre page
+- Fixed crash issue in kernel flasher (tool)
+- Fixed memory issue loading live updates stats
+- Fixed bugs in live updates stats
+- Fixed issues with script manager
+- Misc UI changes

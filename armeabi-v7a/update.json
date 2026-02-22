@@ -1,11 +1,11 @@
 {
-  "versionCode": 1769209418,
-  "versionName": "3.2.0",
-  "apkUrl": "https://sourceforge.net/projects/project-peridot/files/PKM/3.2.0/app-armeabi-v7a-release-20260124-0433.apk/download",
+  "versionCode": 1771771067,
+  "versionName": "3.3.0",
+  "apkUrl": "https://sourceforge.net/projects/project-peridot/files/PKM/3.3.0/app-armeabi-v7a-release-20260222-2007.apk/download",
   "abi": "armeabi-v7a",
-  "sizeBytes": 20229525,
-  "sha256": "e2366fd745f93b77d7a3559b45671ee6d35a4cd6d07431300b91267d02c4b8fc",
+  "sizeBytes": 23744638,
+  "sha256": "7fa81e44b55fa09612acd08c7a0f63ca8deaa4f6d3640d694d8618db0e6f95fa",
   "releaseNotes": "",
-  "buildTime": "2026-01-24 04:33",
-  "datetime": 1769209418
+  "buildTime": "2026-02-22 20:07",
+  "datetime": 1771771067
 }

@@ -1,11 +1,11 @@
 {
-  "versionCode": 1769209418,
-  "versionName": "3.2.0",
-  "apkUrl": "https://sourceforge.net/projects/project-peridot/files/PKM/3.2.0/app-x86_64-release-20260124-0433.apk/download",
+  "versionCode": 1771771067,
+  "versionName": "3.3.0",
+  "apkUrl": "https://sourceforge.net/projects/project-peridot/files/PKM/3.3.0/app-x86_64-release-20260222-2007.apk/download",
   "abi": "x86_64",
-  "sizeBytes": 19240714,
-  "sha256": "43acf8c2d592e1c3fb7d0247d90b47aa569828827658919b9a33cdb25193c7cb",
+  "sizeBytes": 22755824,
+  "sha256": "db6eb20a6eefd5af0c80321044d1e3f35c69b719a44544919bd3949a4c607446",
   "releaseNotes": "",
-  "buildTime": "2026-01-24 04:33",
-  "datetime": 1769209418
+  "buildTime": "2026-02-22 20:07",
+  "datetime": 1771771067
 }
